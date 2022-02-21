@@ -20,12 +20,10 @@ VSCode を用いて markdown でドキュメントを作成する際の設定テ
 ```bash
 npm init --y
 
-npm i -D textlint
-npm install --save-dev \
+npm i -D \
     textlint \
     textlint-rule-preset-ja-spacing \
     textlint-rule-preset-ja-technical-writing \
-    textlint-rule-spellcheck-tech-word
-
-npm i -D markdownlint
+    textlint-rule-spellcheck-tech-word \
+    markdownlint
 ```
