@@ -19,7 +19,8 @@
   "homepage": "https://github.com/ryoutoku/markdown-template#readme",
   "devDependencies": {
     "markdownlint": "^0.25.1",
-    "textlint": "^12.1.0",
+    "textlint": "^12.1.1",
+    "textlint-filter-rule-comments": "^1.2.2",
     "textlint-rule-preset-ja-spacing": "^2.2.0",
     "textlint-rule-preset-ja-technical-writing": "^7.0.0",
     "textlint-rule-spellcheck-tech-word": "^5.0.0"
